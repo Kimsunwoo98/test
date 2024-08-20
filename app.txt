@@ -4,8 +4,6 @@ cccccccccccccccc
 dddddddddddddddd
 eeeeeeeeeeeeeeee
 ffffffffffffffff
-<<<<<<< HEAD
 dssssddddddddddd
-=======
 334333333333
->>>>>>> 17b89f2ef72ea6ecaffe39e314e24844e4988fd7
+
